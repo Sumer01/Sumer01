@@ -1,34 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Sumer%20Raj&fontSize=70&fontColor=ffffff&stroke=00F7FF&strokeWidth=2&animation=fadeIn&color=0:000428,25:004e92,50:00c6ff,75:0072ff,100:00F7FF"/>
-
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=30&duration=2200&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Java+%7C+MERN+%7C+DSA;Building+Future+With+Code+⚡"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&text=Sumer%20Raj&fontSize=72&fontColor=8ff6ff&stroke=00d9ff&strokeWidth=2&animation=fadeIn&fontAlignY=40&desc=✦%20Full%20Stack%20Developer%20✦%20AI%2FML%20Enthusiast%20✦%20Java%20%7C%20MERN%20%7C%20DSA%20⚡&descAlignY=68&descSize=20&color=0:000000,20:000814,40:001d3d,60:003566,80:00509d,100:00bfff"/>
 
 <br><br>
 
-<a href="https://github.com/Sumer01">
-<img src="https://img.shields.io/badge/MCA%20Student-CUSAT-111827?style=for-the-badge&logo=google-scholar&logoColor=00F7FF"/>
-</a>
+<img src="https://img.shields.io/badge/🎓%20MCA%20Student%20-%20CUSAT-001D3D?style=for-the-badge&logo=google-scholar&logoColor=00F7FF"/>
 
-<a href="https://github.com/Sumer01">
-<img src="https://img.shields.io/badge/AI%2FML-Enthusiast-1E293B?style=for-the-badge&logo=openai&logoColor=00F7FF"/>
-</a>
+<img src="https://img.shields.io/badge/🤖%20AI%2FML%20Enthusiast-001D3D?style=for-the-badge&logo=openai&logoColor=00F7FF"/>
 
-<a href="https://github.com/Sumer01">
-<img src="https://img.shields.io/badge/MERN-Developer-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=00F7FF"/>
-</a>
+<img src="https://img.shields.io/badge/💻%20MERN%20Developer-001D3D?style=for-the-badge&logo=visualstudiocode&logoColor=00F7FF"/>
 
 <br><br>
 
-<a href="https://github.com/Sumer01">
-<img src="https://github-widgetbox.vercel.app/api/profile?username=Sumer01&data=followers,repositories,stars,commits&theme=dark"/>
-</a>
+<img src="https://github-widgetbox.vercel.app/api/profile?username=Sumer01&data=followers,repositories,stars,commits&theme=darkmode" width="850"/>
 
 </div>
-
----
 # 👨‍💻 About Me
 
 <img align="right" height="190" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
@@ -134,38 +120,12 @@ mindset:
 </div>
 
 ---
-# 🎮 Pacman Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/main/pacman.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/pacman-contribution-graph/main/pacman.svg">
-</picture>
-
-</div>
-
----
-
-# ⚡ Cyberpunk Coding Vibes
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="500"/>
-
-</div>
-
----
 
 # 📈 GitHub Activity Graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumer01&theme=react-dark&hide_border=true&area=true"/>
-
-</div>
-
-### 👾 Coding Through The Matrix
 
 </div>
 
